@@ -19,8 +19,6 @@ Each folder represents an individual project:
 9. **Project 9** – Small website clone  
 10. **Project 10** – Final mini website project  
 
-*(Update descriptions once you finalize what each project contains)*
-
 ---
 
 ## 🚀 Getting Started
