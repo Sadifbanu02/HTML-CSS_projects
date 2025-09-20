@@ -27,3 +27,22 @@ To view any project:
 1. Clone this repository  
    ```bash
    git clone https://github.com/Sadifbanu02/HTML-CSS_projects.git
+
+#🛠️ Technologies Used
+
+- HTML5
+
+- CSS3 (Flexbox, Grid, Responsive Design)
+  
+#🎯 Future Improvements
+
+Add JavaScript for interactivity
+
+Make projects mobile-friendly
+
+Deploy projects using GitHub Pages
+
+#🤝 Contributing
+
+This is a learning repository, but suggestions and improvements are always welcome!
+Feel free to fork the repo and submit a pull request.
