@@ -36,11 +36,11 @@ To view any project:
   
 #🎯 Future Improvements
 
-Add JavaScript for interactivity
+- Add JavaScript for interactivity
 
-Make projects mobile-friendly
+- Make projects mobile-friendly
 
-Deploy projects using GitHub Pages
+- Deploy projects using GitHub Pages
 
 #🤝 Contributing
 
