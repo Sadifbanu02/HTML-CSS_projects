@@ -1,7 +1,6 @@
 # 🌐 HTML & CSS Projects
 
 This repository contains a collection of beginner to intermediate level **HTML & CSS projects**.  
-
 The goal of these projects is to practice front-end development skills, learn responsive design, and build visually appealing layouts.
 
 ---
