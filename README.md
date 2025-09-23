@@ -12,7 +12,7 @@ Each folder represents an individual project:
 2. **Project 2** – Simple portfolio design  
 3. **Project 3** – Landing page  
 4. **Project 4** – Navigation bar & header design  
-5. **Project 5** – Forms and inputs styling  
+5. **Project 5** – Forms and inputs styling       
 6. **Project 6** – Cards and grid layout  
 7. **Project 7** – Image gallery  
 8. **Project 8** – Responsive design practice  
