@@ -24,7 +24,7 @@ Each folder represents an individual project:
 ## 🚀 Getting Started
 To view any project:
 
-1. Clone this repository  
+ Clone this repository  
    ```bash
    git clone https://github.com/Sadifbanu02/HTML-CSS_projects.git
 
