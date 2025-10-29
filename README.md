@@ -27,7 +27,7 @@ To view any project:
  Clone this repository  
    ```bash
    git clone https://github.com/Sadifbanu02/HTML-CSS_projects.git
-
+  
 #🛠️ Technologies Used
 
 - HTML5
