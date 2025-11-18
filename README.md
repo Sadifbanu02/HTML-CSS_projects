@@ -31,7 +31,7 @@ To view any project:
 #🛠️ Technologies Used
 
 - HTML5
-
+    
 - CSS3 (Flexbox, Grid, Responsive Design)
   
 #🎯 Future Improvements
