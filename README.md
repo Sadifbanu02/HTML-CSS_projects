@@ -41,7 +41,7 @@ To view any project:
 - Make projects mobile-friendly
 
 - Deploy projects using GitHub Pages
-```
+
 #🤝 Contributing
 
 This is a learning repository, but suggestions and improvements are always welcome!
