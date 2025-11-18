@@ -9,7 +9,7 @@ The goal of these projects is to practice front-end development skills, learn re
 Each folder represents an individual project:
 
  **Project 1** – Basic webpage layout  
- **Project 2** – Simple portfolio design     
+ **Project 2** – Simple portfolio design                
  **Project 3** – Landing page  
  **Project 4** – Navigation bar & header design  
  **Project 5** – Forms and inputs styling       
