@@ -16,7 +16,7 @@ Each folder represents an individual project:
  **Project 6** – Cards and grid layout                      
  **Project 7** – Image gallery  
  **Project 8** – Responsive design practice  
- **Project 9** – Small website clone                       
+ **Project 9** – Small website clone                        
  **Project 10** – Final mini website project  
 
 ---
