@@ -4,6 +4,8 @@ This repository contains a collection of beginner to intermediate level **HTML &
 The goal of these projects is to practice front-end development skills, learn responsive design, and build visually appealing layouts.
                    
 ---         
+
+
                    
 # 📂 Projects Included                                                              
 Each folder represents an individual project:                           
