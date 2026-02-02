@@ -6,7 +6,7 @@ The goal of these projects is to practice front-end development skills, learn re
 ---         
 
 
-                   
+                                           
 # 📂 Projects Included                                                                                
 Each folder represents an individual project:                           
                               
