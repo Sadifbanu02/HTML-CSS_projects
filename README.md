@@ -8,7 +8,7 @@ The goal of these projects is to practice front-end development skills, learn re
                                      
                                                       
 # 📂 Projects Included                                                                                                                                                    
-Each folder represents an individual project:                                                                 
+Each folder represents an individual project:                                                                    
                                                                                                                    
  **Project 1** – Basic webpage layout                                                  
  **Project 2** – Simple portfolio design   
